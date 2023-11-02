@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+}
+.Nav {
+    background-color: #D9D9D9;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Section {
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Section1 {
+    width: 33.34%;
+    background-color: #A9A8A8;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Section2 {
+    width: 33.34%;
+    background-color: #817B7B;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Section3 {
+    width: 33.34%;
+    background-color: #544F4F;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.footer {
+    background-color: #B8B3B3;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

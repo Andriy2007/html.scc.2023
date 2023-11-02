@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+}
+.Header {
+    height: 20vh;
+    background-color: #D9D9D9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+.Main {
+
+    height: 35vh;
+    background-color: #BAB5B5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Container {
+    display: flex;
+
+}
+.Section {
+    height: 35vh;
+    width: 60%;
+    background-color: #989595;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Article {
+    height: 35vh;
+    width: 40%;
+    background-color: #716B6B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Footer {
+    height: 10vh;
+    background-color: #D9D9D9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
