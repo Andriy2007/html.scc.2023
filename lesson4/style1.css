@@ -1,0 +1,64 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.main {
+    width: 25%;
+    height: 700px;
+    border: solid darkgray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+form {
+    width: 70%;
+    height: 20%;
+    flex-direction: column;
+    margin-top: 50px;
+
+}
+label {
+    display: flex;
+    height: 10%;
+    border-radius: 10px;
+
+}
+#name, #password {
+    width: 98%;
+    height: 30%;
+    background-color: rgba(169, 169, 169, 0.19);
+    border-radius: 5px;
+}
+button {
+    width: 70%;
+    height: 7%;
+    margin-top: 10px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.facebook {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+.forgotpassw {
+    margin-top: 50px;
+}
+
+.footer {
+    margin-top: 10px;
+    width: 25%;
+    height: 80px;
+    border: solid darkgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

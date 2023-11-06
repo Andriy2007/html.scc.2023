@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.box {
+    margin-top: 200px;
+    height: 500px;
+    width: 800px;
+    background-color: aliceblue;
+    display: flex;
+    border-radius: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box1 {
+    width: 400px;
+    display: flex;
+}
+.box2 {
+    margin-top: 20px;
+    width: 400px;
+}
+.box3 {
+    margin-top: 20px;
+    width: 400px;
+}
+.info {
+    margin-top: 20px;
+}
+button {
+    margin-top: 20px;
+    width: 400px;
+    background-color: yellow;
+}
+#email, #password {
+    width: 98%;
+}
+#Firstname, #Lastname {
+    width: 190px;
+}
+.info {
+   width: 400px;
+    display: flex;
+
+}

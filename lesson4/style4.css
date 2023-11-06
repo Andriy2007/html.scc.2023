@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.main {
+    margin-top: 200px;
+    height: 600px;
+    width: 800px;
+    background-color: aliceblue;
+    display: flex;
+    border-radius: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+label{
+    display: block;
+    margin-top: 10px;
+}
+
+.blank, .NameUser, .GenderUser, .InfoUser {
+    display: flex;
+    flex-direction: column;
+}
+
