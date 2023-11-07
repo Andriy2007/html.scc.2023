@@ -28,3 +28,6 @@ p {
 h1 {
     font-size: 40px;
 }
+p {
+    width: 100px;
+}
